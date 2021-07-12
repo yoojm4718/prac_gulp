@@ -1,0 +1,19 @@
+{
+  "name": "prac_gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoojm4718/prac_gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoojm4718/prac_gulp/issues"
+  },
+  "homepage": "https://github.com/yoojm4718/prac_gulp#readme"
+}
